@@ -1,3 +1,3 @@
 adding
-removeFollowing: arg1
-	self following remove: arg1
+removeFollowing: anUser
+	self following remove: anUser

@@ -12,7 +12,8 @@
 		"topic1",
 		"topic2",
 		"topics1",
-		"answer1"
+		"answer1",
+		"answer2"
 	],
 	"name" : "QuestionTest",
 	"type" : "normal"

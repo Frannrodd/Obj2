@@ -1,3 +1,3 @@
 adding
-addFollowing: arg1
-	self following add: arg1
+addFollowing: aUser
+	self following add: aUser

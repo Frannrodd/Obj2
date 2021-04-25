@@ -2,5 +2,5 @@ initialization
 initialize
 	interestingTopics := Set new.
 	following := Set new.
-	posts := OrderedCollection new.
+	questions := OrderedCollection new.
 	creationDate := DateAndTime today

@@ -1,3 +1,3 @@
 testing
-hasThisTopic: arg1
-	^ self topics includes: arg1
+hasThisTopic: aTopic
+	^ self topics includes: aTopic

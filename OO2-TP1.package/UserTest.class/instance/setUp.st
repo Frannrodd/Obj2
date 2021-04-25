@@ -16,4 +16,10 @@ setUp
 		title: 'Alguien me recomienda una buena banda de jazz?'
 		Description: 'Bandas de jazz'
 		Topics: topics2
-		User: user
+		User: user.
+	answer1 := Answer
+		description: 'Depende donde lo hagas y de que manera'
+		User: user2.
+	answer2 := Answer
+		description: 'Depende donde lo hagas y de que manera'
+		User: user2.

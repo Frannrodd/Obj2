@@ -1,3 +1,3 @@
-accessing
+accessing-calculated
 questionIn: aQuestion
-	^ self posts includes: aQuestion
+	^ questions includes: aQuestion

@@ -9,7 +9,7 @@
 		"username",
 		"password",
 		"creationDate",
-		"posts",
+		"questions",
 		"following",
 		"interestingTopics"
 	],

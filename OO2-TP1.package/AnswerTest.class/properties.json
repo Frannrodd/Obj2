@@ -7,16 +7,9 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"user",
-		"topic1",
-		"cuoora",
-		"topic2",
-		"topic3",
-		"topics1",
-		"user1",
 		"question1",
-		"answer1",
-		"answer2"
+		"answer1"
 	],
-	"name" : "CuOOraTest",
+	"name" : "AnswerTest",
 	"type" : "normal"
 }
