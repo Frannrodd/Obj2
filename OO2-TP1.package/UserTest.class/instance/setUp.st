@@ -22,4 +22,4 @@ setUp
 		User: user2.
 	answer2 := Answer
 		description: 'Depende donde lo hagas y de que manera'
-		User: user2.
+		User: user
