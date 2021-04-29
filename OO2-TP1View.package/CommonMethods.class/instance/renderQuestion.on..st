@@ -11,7 +11,7 @@ renderQuestion: arg1 on: arg2
 						with: arg1 title ] ];
 		tableRow: [ arg2
 				tableData: [ arg2 text: 'topicos: '.
-					arg1 topics do: [ :arg3 | arg2 text: arg3 title , '  ' ] ] ];
+					arg1 topics flatCollect: [ :arg3 | arg2 text: arg3 title , '  ' ] ] ];
 		tableRow: [ | tmp3 |
 			tmp3 := arg2.
 			tmp3

@@ -1,3 +1,3 @@
 initialization
 isLike
-	self subclassResponsibility
+	^ status

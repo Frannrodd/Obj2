@@ -1,3 +1,0 @@
-initialization
-isLike
-	^ true

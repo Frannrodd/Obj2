@@ -7,7 +7,9 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"timestamp",
-		"user"
+		"user",
+		"isLike",
+		"status"
 	],
 	"name" : "Vote",
 	"type" : "normal"
